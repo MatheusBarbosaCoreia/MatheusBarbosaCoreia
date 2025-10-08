@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+  <h1>Bem-vindo ao meu perfil!</h1>
+</div>
+
+---
+
 <!-- Banner animado -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+eu+sou+Matheus+Barbosa!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+Web+%F0%9F%92%BB;HTML%2C+CSS+e+muito+aprendizado!+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,18 +24,16 @@ Você pode adicionar GIFs de duas formas:
 ```
 
 **Opção B - GIF do Giphy:**
-```markdown
+```html
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 ```
 
 ### 2️⃣ **Banner animado com Typing SVG**
-
-```markdown
+```html
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Seu+texto+aqui;Pode+adicionar+v%C3%A1rias+linhas;Ficará+animado!" />
 ```
 
 ### 3️⃣ **Badges e Ícones de tecnologias**
-
 ```markdown
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,15 +41,12 @@ Você pode adicionar GIFs de duas formas:
 ```
 
 ### 4️⃣ **GitHub Stats Cards**
-
 ```markdown
 ![Seus Stats do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusBarbosaCoreia&show_icons=true&theme=radical)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarbosaCoreia&layout=compact&theme=radical)
 ```
 
 ### 5️⃣ **Centralizar conteúdo**
-
 ```html
 <div align="center">
   <h2>Seu título aqui</h2>
@@ -56,32 +58,27 @@ Você pode adicionar GIFs de duas formas:
 
 ## 🔧 Minhas Tecnologias
 
-<div align="center">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusBarbosaCoreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarbosaCoreia&layout=compact&theme=tokyonight)
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusBarbosaCoreia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarbosaCoreia&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
 
 ## 💡 Dicas Extras
 
-### 🌟 **Sites úteis para personalizar:**
+### 🌟 Sites úteis para personalizar:
 
 1. **GIFs:** [Giphy](https://giphy.com/) - Biblioteca enorme de GIFs
 2. **Badges:** [Shields.io](https://shields.io/) - Crie badges personalizados
@@ -89,8 +86,7 @@ Você pode adicionar GIFs de duas formas:
 4. **Stats Cards:** [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 5. **Emojis:** Use emojis do GitHub! 🎉 ✨ 🚀 💻 🎨
 
-### 🎯 **Estrutura recomendada:**
-
+### 🎯 Estrutura recomendada:
 ```markdown
 # Banner/Título animado
 # Breve apresentação
@@ -104,26 +100,18 @@ Você pode adicionar GIFs de duas formas:
 
 ## 📫 Como me encontrar
 
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbosamatheus035@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusBarbosaCoreia)
-  
-</div>
+<p align="center">
+  <a href="mailto:barbosamatheus035@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MatheusBarbosaCoreia">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  
-  ### 🚀 Estudando e Praticando!
-  
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
-  
+  <h3>🚀 Estudando e Praticando!</h3>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
-
-<!-- 
-  Dica: Para editar este README novamente, clique no botão de edição (✏️) acima!
-  Você pode copiar e modificar qualquer parte deste código.
-  
-  Seja criativo e divirta-se personalizando seu perfil! ✨
--->
