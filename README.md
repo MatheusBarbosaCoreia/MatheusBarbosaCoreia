@@ -29,27 +29,6 @@
 
 ---
 
-## 💡 Dicas Extras
-
-### 🌟 Sites úteis para personalizar:
-
-1. **GIFs:** [Giphy](https://giphy.com/) - Biblioteca enorme de GIFs
-2. **Badges:** [Shields.io](https://shields.io/) - Crie badges personalizados
-3. **Typing SVG:** [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) - Textos animados
-4. **Stats Cards:** [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-5. **Emojis:** Use emojis do GitHub! 🎉 ✨ 🚀 💻 🎨
-
-### 🎯 Estrutura recomendada:
-
-```markdown
-# Banner/Título animado
-# Breve apresentação
-# Tecnologias (com badges)
-# Estatísticas do GitHub
-# Projetos em destaque (opcional)
-# Como me encontrar (redes sociais)
-```
-
 ---
 
 ## 📫 Como me encontrar
