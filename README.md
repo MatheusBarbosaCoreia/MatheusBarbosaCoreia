@@ -31,11 +31,12 @@
 ## 📫 Como me encontrar
 
 <p>
-  <a href="mailto:barbosamatheus035@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  📧 Email: barbosamatheus035@gmail.com<br/>
   <a href="https://github.com/MatheusBarbosaCoreia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@Paulin_bakna" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://discord.com/users/811974929917804614" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
