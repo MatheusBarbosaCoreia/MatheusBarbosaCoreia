@@ -31,7 +31,7 @@
 ## 📫 Como me encontrar
 
 <p>
-  <a href="mailto:barbosamatheus035@gmai.com">
+  <a href="mailto:barbosamatheus035@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/MatheusBarbosaCoreia">
