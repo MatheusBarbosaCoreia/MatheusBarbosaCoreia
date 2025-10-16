@@ -60,4 +60,4 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60"/>
+<img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ2ZTlkbzdibmp2MzI0Mjc1YWNscmgzdzVsbXhidmE1d3B3dXk1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)" width="200"/>
