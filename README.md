@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpvdHZlOTY3MWh0aTVsbXN5NTY2aHZ5b2E1NjBoMXozeGQwOG91aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/VixgE40gG7psuxARiB/giphy.gif" width="400">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpvdHZlOTY3MWh0aTVsbXN5NTY2aHZ5b2E1NjBoMXozeGQwOG91aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/VixgE40gG7psuxARiB/giphy.gif" width="400">
+  
   <h1>Bem-vindo ao meu perfil!</h1>
 </div>
 
@@ -7,16 +8,16 @@
 
 <!-- Banner animado -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Olá,+eu+sou+Matheus+Barbosa!+👋;Estudante+de+Desenvolvimento+Web+💻;HTML,+CSS+e+muito+aprendizado!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Olá,+eu+sou+Matheus+Barbosa!+👋;Estudante+de+Desenvolvimento+Web+💻;HTML,+CSS+e+muito+aprendizado!+🚀" alt="Typing SVG" />
 </div>
 
 ## 🔧 Minhas Tecnologias
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -46,18 +47,6 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
 
 ---
 
-## 📫 Como me encontrar
-
-
-  📧 Email: barbosamatheus035@gmail.com
-
-<p>
-  <a href="https://github.com/MatheusBarbosaCoreia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.youtube.com/@Paulin_bakna" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
-
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF" width="480">
+</div>
