@@ -28,23 +28,34 @@
 
 ---
 
+## 📂 Projetos
+
+Aqui estão alguns dos meus projetos de desenvolvimento web:
+
+1. **[Projeto Vanguards](https://matheusbarbosacoreia.github.io/Projeto-Vanguards/)**  
+   Site temático sobre o jogo Valorant, com design moderno e responsivo.
+
+2. **[Essentials](https://matheusbarbosacoreia.github.io/Essentials/imagens/Pagina2.html)**  
+   Página com galeria de imagens e elementos visuais.
+
+3. **[Projeto Android](https://matheusbarbosacoreia.github.io/Projeto-Android/)**  
+   Site educacional sobre a história do mascote do Android, com design clean e informativo.
+
+4. **[Projeto Cordel](https://matheusbarbosacoreia.github.io/Projeto-Cordel/)**  
+   Projeto inspirado na literatura de cordel, com efeitos de parallax e tipografia tradicional.
+
+---
+
 ## 📫 Como me encontrar
 
 <p>
-  📧 Email: barbosamatheus035@gmail.com<br/>
+  📧 Email: barbosamatheus035@gmail.com
+</p>
+<p>
   <a href="https://github.com/MatheusBarbosaCoreia" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.youtube.com/@Paulin_bakna" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://discord.com/users/811974929917804614" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
-
----
-
-## 🚀 Estudando e Praticando!
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
