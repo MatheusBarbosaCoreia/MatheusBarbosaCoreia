@@ -48,6 +48,6 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Estudante+de+Desenvolvimento+Web+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38C2FF&center=true&vCenter=true&width=940&lines=Estudante+de+Desenvolvimento+Web+💻;Estudando+e+Praticando 🐱💻" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="GIF" width="480">
 </div>
