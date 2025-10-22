@@ -36,7 +36,7 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
 1. **[Projeto Vanguards](https://matheusbarbosacoreia.github.io/Projeto-Vanguards/)**  
    Site temático sobre o jogo Vanguards.
 
-2. **[Essentials](https://matheusbarbosacoreia.github.io/Essentials/)**  
+2. **[Essentials](https://matheusbarbosacoreia.github.io/Essentials/imagens/home.html)**  
    Site com programas para computador e aplicativos mobile para facilitar seu dia a dia, e tutorial de instalação do windowns.
 
 3. **[Projeto Android](https://matheusbarbosacoreia.github.io/Projeto-Android/)**  
