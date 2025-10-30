@@ -45,8 +45,8 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
 4. **[Projeto Cordel](https://matheusbarbosacoreia.github.io/Projeto-Cordel/)**
    Projeto inspirado na literatura de cordel, com efeitos de parallax e tipografia tradicional.
 
-5.**[Projeto Redes Socias](https://matheusbarbosacoreia.github.io/Projeto-Redes-sociais/)**
-  Projeto para mostrar minhas redes socias.(Aproveita e me segue 😁👍)
+5. **[Projeto Redes Socias](https://matheusbarbosacoreia.github.io/Projeto-Redes-sociais/)**
+   Projeto para mostrar minhas redes socias.(Aproveita e me segue 😁👍).
 
 ---
 
