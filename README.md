@@ -42,10 +42,10 @@ Aqui estão alguns dos meus projetos de desenvolvimento web:
 3. **[Projeto Android](https://matheusbarbosacoreia.github.io/Projeto-Android/)**  
    Site educacional sobre a história do mascote do Android, com design clean e informativo.
 
-4. **[Projeto Cordel](https://matheusbarbosacoreia.github.io/Projeto-Cordel/)**
+4. **[Projeto Cordel](https://matheusbarbosacoreia.github.io/Projeto-Cordel/)**  
    Projeto inspirado na literatura de cordel, com efeitos de parallax e tipografia tradicional.
 
-5. **[Projeto Redes Socias](https://matheusbarbosacoreia.github.io/Projeto-Redes-sociais/)**
+5. **[Projeto Redes Socias](https://matheusbarbosacoreia.github.io/Projeto-Redes-sociais/)**  
    Projeto para mostrar minhas redes socias.(Aproveita e me segue 😁👍).
 
 ---
